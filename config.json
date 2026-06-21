@@ -1,0 +1,27 @@
+{
+    "features": {
+        "espEnabled": true,
+        "showBoxes": true,
+        "showSnaplines": true,
+        "showHealth": true,
+        "showShield": true,
+        "showDistance": true,
+        "showNames": true,
+        "showHeadDot": true,
+        "showSkeleton": false
+    },
+    "visuals": {
+        "boxThickness": 1.5,
+        "snaplineThickness": 1.0,
+        "maxDistance": 300.0
+    },
+    "keybinds": {
+        "toggleKey": 45,
+        "espToggleKey": 36,
+        "exitKey": 35
+    },
+    "target": {
+        "window": "Fortnite  ",
+        "process": "FortniteClient-Win64-Shipping.exe"
+    }
+}

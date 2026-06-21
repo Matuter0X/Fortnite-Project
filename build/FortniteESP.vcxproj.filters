@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\memory\memory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\memory\syscalls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\offsets\offsets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\offsets\scanner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\entity\entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\entity\math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\overlay\overlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\overlay\renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\stealth\stealth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\demo\demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\dumper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\validator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\memory\memory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\memory\syscalls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\offsets\offsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\offsets\scanner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\entity\entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\entity\math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\overlay\overlay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\overlay\renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\stealth\stealth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\demo\demo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\dumper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\ue_structures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\validator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C60E2F31-BD21-3410-B79F-60B00CBBEAC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F18CC5BC-12C5-3778-B769-AF28188B8002}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

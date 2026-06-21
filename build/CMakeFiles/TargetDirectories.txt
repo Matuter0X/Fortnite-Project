@@ -1,0 +1,5 @@
+C:/Users/YowaiMo/.gemini/antigravity/scratch/fortnite-esp/build/CMakeFiles/imgui.dir
+C:/Users/YowaiMo/.gemini/antigravity/scratch/fortnite-esp/build/CMakeFiles/FortniteESP.dir
+C:/Users/YowaiMo/.gemini/antigravity/scratch/fortnite-esp/build/CMakeFiles/INSTALL.dir
+C:/Users/YowaiMo/.gemini/antigravity/scratch/fortnite-esp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/YowaiMo/.gemini/antigravity/scratch/fortnite-esp/build/CMakeFiles/ZERO_CHECK.dir

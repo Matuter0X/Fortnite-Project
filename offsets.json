@@ -1,0 +1,54 @@
+{
+    "UWorld": {
+        "GWorld": "0x0",
+        "PersistentLevel": "0x38",
+        "OwningGameInstance": "0x1B8",
+        "GameState": "0x160"
+    },
+    "UGameInstance": {
+        "LocalPlayers": "0x40"
+    },
+    "ULocalPlayer": {
+        "PlayerController": "0x38"
+    },
+    "APlayerController": {
+        "PlayerCameraManager": "0x348",
+        "AcknowledgedPawn": "0x330"
+    },
+    "ULevel": {
+        "ActorArray": "0x98",
+        "ActorCount": "0xA0"
+    },
+    "AActor": {
+        "RootComponent": "0x198"
+    },
+    "USceneComponent": {
+        "RelativeLocation": "0x128"
+    },
+    "APlayerState": {
+        "PawnPrivate": "0x308",
+        "PlayerNamePrivate": "0x318",
+        "TeamIndex": "0x1231"
+    },
+    "AFortPlayerPawn": {
+        "PlayerState": "0x2B0",
+        "Mesh": "0x318",
+        "CurrentHealth": "0x8B8",
+        "MaxHealth": "0x8BC",
+        "CurrentShield": "0x8C0",
+        "MaxShield": "0x8C4",
+        "bIsDying": "0x738"
+    },
+    "APlayerCameraManager": {
+        "CameraCache": "0x1AB0",
+        "CachePOV": "0x10",
+        "POV_Location": "0x0",
+        "POV_Rotation": "0xC",
+        "POV_FOV": "0x18"
+    },
+    "USkeletalMeshComponent": {
+        "BoneArray": "0x5B0",
+        "BoneCount": "0x5B8",
+        "ComponentToWorld": "0x1E0"
+    }
+}

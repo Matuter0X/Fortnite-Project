@@ -1,0 +1,14 @@
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\main.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\config.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\memory\memory.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\memory.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\memory\syscalls.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\syscalls.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\offsets\offsets.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\offsets.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\offsets\scanner.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\scanner.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\entity\entity.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\entity.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\entity\math.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\math.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\overlay\overlay.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\overlay.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\overlay\renderer.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\renderer.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\stealth\stealth.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\stealth.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\demo\demo.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\demo.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\dumper.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\dumper.obj
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\validator.cpp;c:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\build\FortniteESP.dir\Release\validator.obj

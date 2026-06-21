@@ -1,0 +1,67 @@
+﻿  main.cpp
+  config.cpp
+  syscalls.cpp
+  scanner.cpp
+  entity.cpp
+  overlay.cpp
+  dumper.cpp
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\entity\entity.cpp(74,23): error C2589: '(': illegal token on right side of '::'
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\entity\entity.cpp(74,23): error C2059: syntax error: ')'
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp(56,17): error C2039: 'unordered_map': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm(225,1):
+      see declaration of 'std'
+  
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp(56,30): error C2143: syntax error: missing ';' before '<'
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp(56,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp(56,91): error C2143: syntax error: missing ';' before '{'
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp(56,91): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp(131,26): error C2039: 'Parse': is not a member of 'config::json_util'
+      C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp(21,11):
+      see declaration of 'config::json_util'
+  
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp(131,26): error C3861: 'Parse': identifier not found
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\config.cpp(137,13): error C3536: 'it': cannot be used before it is initialized
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\memory\syscalls.cpp(257,16): error C2065: 'STATUS_UNSUCCESSFUL': undeclared identifier
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\memory\syscalls.cpp(276,16): error C2065: 'STATUS_UNSUCCESSFUL': undeclared identifier
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\memory\syscalls.cpp(289,16): error C2065: 'STATUS_UNSUCCESSFUL': undeclared identifier
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\dumper.cpp(107,40): error C2065: 'FNameBlockOffsetBits': undeclared identifier
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\dumper.cpp(108,43): error C2065: 'FNameBlockSize': undeclared identifier
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\dumper\dumper.cpp(110,23): error C2065: 'FNameMaxBlocks': undeclared identifier
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\offsets\scanner.cpp(145,32): error C2589: '(': illegal token on right side of '::'
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\offsets\scanner.cpp(145,32): error C2059: syntax error: ')'
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\overlay\overlay.cpp(90,18): error C2664: 'HCURSOR LoadCursorW(HINSTANCE,LPCWSTR)': cannot convert argument 2 from 'LPSTR' to 'LPCWSTR'
+      C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\overlay\overlay.cpp(90,39):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(10620,1):
+      see declaration of 'LoadCursorW'
+      C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\overlay\overlay.cpp(90,18):
+      while trying to match the argument list '(nullptr, LPSTR)'
+  
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(223,13): warning C4100: 'pct': unreferenced parameter
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(223,13): warning C4100: 'status': unreferenced parameter
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(239,17): warning C4100: 'pct': unreferenced parameter
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(239,17): warning C4100: 'status': unreferenced parameter
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(332,24): error C2362: initialization of 'entityList' is skipped by 'goto cleanup'
+      C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(421,1):
+      see declaration of 'cleanup'
+  
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(316,24): error C2362: initialization of 'espRenderer' is skipped by 'goto cleanup'
+      C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(421,1):
+      see declaration of 'cleanup'
+  
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(291,18): error C2362: initialization of 'targetWindowTitle' is skipped by 'goto cleanup'
+      C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(421,1):
+      see declaration of 'cleanup'
+  
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(288,28): error C2362: initialization of 'overlayWindow' is skipped by 'goto cleanup'
+      C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(421,1):
+      see declaration of 'cleanup'
+  
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(272,10): error C2362: initialization of 'validationResults' is skipped by 'goto cleanup'
+      C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(421,1):
+      see declaration of 'cleanup'
+  
+C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(210,23): error C2362: initialization of 'sdkDumper' is skipped by 'goto cleanup'
+      C:\Users\YowaiMo\.gemini\antigravity\scratch\fortnite-esp\src\main.cpp(421,1):
+      see declaration of 'cleanup'
+  
